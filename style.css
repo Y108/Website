@@ -54,12 +54,6 @@ body {
   color: black;
 }
 
-.navbar a:visited, 
-.navbar a:active {
-  color: white;
-  background-color: #333;
-}
-
 a {
   color: rgb(0,0,0);
   text-decoration: none;
