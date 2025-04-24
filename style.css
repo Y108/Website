@@ -17,10 +17,6 @@ body {
   color: white;
 }
 
-.navbar a:active {
-  color: inherit;
-  background-color: inherit;
-}
 /* Increase the font size of the heading */
 .header h1 {
   font-size: 40px;
@@ -56,6 +52,16 @@ body {
 .navbar a:hover {
   background-color: #ddd;
   color: black;
+}
+
+.navbar a:active {
+  color: inherit;
+  background-color: inherit;
+}
+
+.navbar a:visited {
+  color: inherit;
+  background-color: inherit;
 }
 
 a {
