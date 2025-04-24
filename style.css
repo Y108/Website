@@ -54,14 +54,10 @@ body {
   color: black;
 }
 
+.navbar a:visited, 
 .navbar a:active {
-  color: inherit;
-  background-color: inherit;
-}
-
-.navbar a:visited {
-  color: inherit;
-  background-color: inherit;
+  color: white;
+  background-color: #333;
 }
 
 a {
