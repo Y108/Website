@@ -57,7 +57,7 @@ a:visited {
   color: rgb(97, 97, 97);
 }
 
-a:hover {
+.footer a:hover {
   color: orange;
 }
 
